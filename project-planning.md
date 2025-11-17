@@ -5,7 +5,7 @@
 - Student 3 (Beau): Vakken, modules & studiegids
 - Student 4 (Jamie): Roostersysteem met lokaalreserveringen
 - Student 5 (Sam): Cijferregistratie & studievoortgang
-- Student 6 (): Aanwezigheidsregistratie & verzuimmelding
+- Student 6 (Jeffrey): Aanwezigheidsregistratie & verzuimmelding
 - Student 7 (Tom): Stagemodule (bedrijven, plaatsingen, beoordelingen)
 - Student 8 (Hussam): Toetsplanning & herkansingen
 - Student 9 (Batuhan): Dashboards, rapporten & ouderportaal
