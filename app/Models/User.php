@@ -9,6 +9,8 @@ use Illuminate\Notifications\Notifiable;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 class User extends Authenticatable
 {
+
+    
     /** @use HasFactory<\Database\Factories\UserFactory> */
     use HasFactory, Notifiable;
 
@@ -109,4 +111,10 @@ class User extends Authenticatable
     {
         return $this->hasRole('Student');
     }
+
+    public function teacher()
+    {
+        return $this->hasOne(Teacher::class);
+    }
+
 }
